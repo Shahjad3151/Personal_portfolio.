@@ -1088,6 +1088,7 @@ body {
         max-height: 500px;
         padding: 20px;
         margin-left: 50px;
+       
     }
     .container2 {
         width: 600px;
@@ -1096,19 +1097,22 @@ body {
         margin-left: 0px;
     }
     .bar .info .addhtml::before{
-        content: "90%";
+        content: "85%";
     }
     .bar .info .addcss::before{
-        content: "80%";
-    }
-    .bar .info .addpy::before{
         content: "75%";
     }
+    .bar .info .addpy::before{
+        content: "55%";
+    }
     .bar .info .addjava::before{
-        content: "50%";
+        content: "80%";
     }
     .bar .info .addc::before{
-        content: "50%";
+        content: "75%";
+    }
+    .bar .info .addpy::before{
+        content: "55%";
     }
 
     /*project*/
@@ -1270,19 +1274,22 @@ body {
         left: 25%;
     }
     .bar .info .addhtml::before{
-        content: "90%";
+        content: "85%";
     }
     .bar .info .addcss::before{
-        content: "80%";
-    }
-    .bar .info .addpy::before{
         content: "75%";
     }
+    .bar .info .addpy::before{
+        content: "55%";
+    }
     .bar .info .addjava::before{
-        content: "50%";
+        content: "80%";
     }
     .bar .info .addc::before{
-        content: "50%";
+        content: "75%";
+    }
+    .bar .info .addpy::before{
+        content: "55%";
     }
 
     /*project*/
