@@ -1096,24 +1096,7 @@ body {
         padding: 10px;
         margin-left: 0px;
     }
-    .bar .info .addhtml::before{
-        content: "85%";
-    }
-    .bar .info .addcss::before{
-        content: "75%";
-    }
-    .bar .info .addpy::before{
-        content: "55%";
-    }
-    .bar .info .addjava::before{
-        content: "80%";
-    }
-    .bar .info .addc::before{
-        content: "75%";
-    }
-    .bar .info .addpy::before{
-        content: "55%";
-    }
+    
 
     /*project*/
     .main-text {
@@ -1273,24 +1256,7 @@ body {
     .radial-bar .text{
         left: 25%;
     }
-    .bar .info .addhtml::before{
-        content: "85%";
-    }
-    .bar .info .addcss::before{
-        content: "75%";
-    }
-    .bar .info .addpy::before{
-        content: "55%";
-    }
-    .bar .info .addjava::before{
-        content: "80%";
-    }
-    .bar .info .addc::before{
-        content: "75%";
-    }
-    .bar .info .addpy::before{
-        content: "55%";
-    }
+ 
 
     /*project*/
     .main-text {
