@@ -367,18 +367,20 @@ body {
     width: 75%;
 }
 
-.progress-line.python span {
-    width: 55%;
+.progress-line.javascript span {
+    width: 70%;
 }
 
 .progress-line.java span {
     width: 80%;
 }
 
-.progress-line.cpls span {
+.progress-line.tailwind span {
+    width: 85%;
+}
+.progress-line.react span {
     width: 75%;
 }
-
 .progress-line span::after {
     position: absolute;
     padding: 1px 8px;
@@ -400,18 +402,20 @@ body {
     content: "75%";
 }
 
-.progress-line.python span::after {
-    content: "55%";
+.progress-line.javascript span::after {
+    content: "70%";
 }
 
 .progress-line.java span::after {
     content: "80%";
 }
 
-.progress-line.cpls span::after {
+.progress-line.tailwind span::after {
+    content: "85%";
+}
+.progress-line.react span::after {
     content: "75%";
 }
-
 .progress-line span::before {
     content: "";
     position: absolute;
@@ -1096,8 +1100,7 @@ body {
         padding: 10px;
         margin-left: 0px;
     }
-    
-
+   
     /*project*/
     .main-text {
         padding-top: 20px;
